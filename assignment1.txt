@@ -1,0 +1,136 @@
+Assignment 1 planning:
+
+<h3 class="minor">Interest in IT:</h3>
+	<p>I have a head for ideas, invention, analysis, strategies, systems, and other areas of problem solving, so for me, Information Technology is a pathway towards the implementation of at least the logical aspects of those ideas.</p><p>Having said that, I should add that the internet serves as a forum for cathartic therapy, which I use on a regular basis to vent and rage at the frustration which results from living on this planet. At some point I would like to figure out how to get off this planet, at which point I will find a new one, terraform it if necessary, and quarantine it from religion, capitalism, and democracy.</p>
+ 
+<h3 class="minor">Origin:</h3>
+	<p>My interest in computers and electronics led to interest in I.T., and which dates back to the 1980s when some of the first personal computers were becomming more common in people's homes. We had an Apple IIe, but other friends had everything from the zx81 to the Amstrad, Atari, Amiga, Apple III, Vic20, Commodore64, and various others. We used to get snippets of code from magazines, and experiment with what we could do.</p><p>Also my grandfather on my dad's side was into electronics, and my father had various old valve radios, stereos, amplifiers, speakers etc., and I had plenty of opportunity as a young kid to pull these things apart.</p>
+
+<h3 class="minor">Inspiration:</h3>
+	<p>My current passion for I.T. emerged from a completely separate area of interest &emdash; in ecological and social justice and sustainability &emdash; though it also stems from my interest in cinema, games, electronics, mechanics, and other fields.</p><p>A good friend of mine ( whom is doing his PhD ) actually inspired me in the ecological areas, as did many others ( such as Carl Sagan ), and so I see I.T. as a means to developing systems that change how civilisation functions at a fundamental level.</p>
+
+<h3 class="minor">Experience:</h3>
+	<p>I have previously done about 20 years combined formal and informal tertiary level studies and research, across 4 universities, plus TAFE, other private institutions, books, and online resources. These past studies include electronic engineering, computer science, mathematics, and other sciences ( amongst other things ).</p><p>I have also worked in the entertainment and events industry as an audiovisual technician, I am currently working on a feature film ( doing sound ), and I have also been an account/relationship/sales manager in technical sales of 3D CAD/CAM/CAE & PDM software ( www.solidworks.com ), as well as Microsoft Sharepoint metadata integration tools. On top of this, I have been a pay TV / telephony data cabler, I've done some electronic soldering ( repairs ), an I.T. consultant for small business, a private tech support guy, and I've also built, installed, and maintained small business computers and networks.</p><p>However, much of this experience was a long time ago, so a great deal of it is outdated ( obsolete ) technology now.</p>
+
+<h3 class="minor">Reasons for RMIT:</h3>
+	<p>I am simultaneously enrolled at LaTrobe University, doing a similar yet different course, and much of this is revision for me, but also updating skills, and I needed studies online to complement what I am doing at LTU, so OUA led me to RMIT.</p>
+<h3 class="minor">Expectations:</h3>
+	<p>My expections in this course are to fill in gaps in my knowledge, and learn a different perspective on similar subjects versus my LTU subjects ( in order to get a more complete picture of some of the more fundamental aspects of computer programming, system design, and network/system administration</p><p>I am also looking to supplment that other course with completely different subjects not offered. In effect, I am using RMIT as a means to overload my course commitments, without requiring institutional approval, as I require a great deal of control over my studies, and more so than what is typically offered.</p>
+ 
+<h3 class="minor">Ideal Job:</h3>
+	<p>There's no such thing as an advertisement for my ideal job, as it doesn't exist as a regular 'job' &emdash; it does however exist as a self-employment arrangement. I really have no desire to work for anyone else, having done over 100 jobs in my life, and so if I am doing work for others, I want it to be a client-contractor relationship, where I can define the terms on which a job is accepted or rejected ( a privilege employees don't get to enjoy ).</p>
+	<p>HOWEVER, were such a job to exist, it would be one in which a corporation or billionaire basically hands me a massive budget, says "I trust you, in fact I am probably unqualified to judge your ideas, so just do what you think is right with these resources" &emdash; and then he/she/they/it leave me alone until ( and unless ) I actually ask for help ( if I ever do ).</p><p>So you can see why this job probably doesn't exist.</p>
+<h3 class="minor">Personality tests ... kill me, kill me now:</h3>
+<h4 class="minor">MBIT & Similar Crap:</h4>
+	<p>I have no interest in the pulp philosophy of the business world, and trying to categorise people by such things as MBIT is as boring and useless as it is inaccurate, I wouldn't waste my time with it unless someone was paying me a hell of a lot of money. I've done IQ tests ( keep finding fundamental flaws in them ), and personality tests of all kinds, and quite frankly I think every last one of them is utterly useless trash. I would not take any such things into consideration when forming a team, as I trust my own instincts and powers of deduction far better. Instead I would simply interview people with an interest in joining a team, determine for myself where I think the limits of my trust should be with each individual, and then decide as to what risks I am willing to take with each individual, adjusting my views over time as more information comes to light ... and no MBIT is ever going to compare to that.</p>
+ 
+ 
+ -- Learning style test:
+	http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
+	What's Your Learning Style? The Results
+
+Your Scores:
+    Auditory:	45%
+    Visual:		35%
+    Tactile:	20%
+
+	You are an Auditory learner! Check out the information below, or view all of the learning styles.
+
+	Auditory
+		If you are an auditory learner, you learn by hearing and listening. You understand and remember things you have heard. You store information by the way it sounds, and you have an easier time understanding spoken instructions than written ones. You often learn by reading out loud because you have to hear it or speak it in order to know it.
+		
+		As an auditory learner, you probably hum or talk to yourself or others if you become bored. People may think you are not paying attention, even though you may be hearing and understanding everything being said.
+		
+		Here are some things that auditory learners like you can do to learn better.
+			Sit where you can hear.
+			Have your hearing checked on a regular basis.
+			Use flashcards to learn new words; read them out loud.
+			Read stories, assignments, or directions out loud.
+			Record yourself spelling words and then listen to the recording.
+			Have test questions read to you out loud.
+			Study new material by reading it out loud.
+
+	Remember that you need to hear things, not just see things, in order to learn well.
+
+-- IQ Test 
+	https://iqtest.com/take-the-test/
+	Your free general IQ score is: 139
+	... but honestly, I am yet to see an IQ test that I couldn't spot flaws in.
+	
+	
+ -- MBIT Results:
+	Personality type:
+		“The Protagonist” (ENFJ-A)
+	Individual traits:
+		Extraverted – 63%,
+		Intuitive – 85%,
+		Feeling – 64%,
+		Judging – 58%,
+		Assertive – 74%
+Role:
+	Diplomat
+Strategy:
+	People Mastery
+
+		Link to your profile: https://www.16personalities.com/profiles/ec14e754936f1
+ 
+ PROJECT IDEA:
+  
+	-- Overview --
+		Continuing work on my network, development environment, and the creation and testing of a project collaboration development and resource allocation framework ( based on GitLab ), plus plugins relating to other aspects of my 30 year vision / obsession. More information available from previously written blog.open-empire.org articles ( my own site ), and I am also authoring a series of books on this vision and related topics.
+	
+	-- Motivation --
+		I have had this vision / obsession ( made of many parts ) for the past 30 years, which is inspired by many things, not the least of which is the fact that for the past 300 years our species has pretty much ignored every single ecological warning ever given by any scientist, and we are now about to pay the price for this cowardice and denial. 
+	
+		It's a choice of three possibilities that we face:
+			1. Extinction;
+			2. A draconian dystopia that no one in their right mind should want to live in;
+			3. Change the foundational bases of all our decision making.
+	
+	-- Details --
+		My project pertains to a 30 year obsession with the quantification of ecological and social justice and sustainability via the principles of ecological systems modelling and thermodynamics, as a basis for new systems of non-species-biased, non-property/trade/currency-based, and non-hierarchical ( aka anarchic ) justice economics and politics - the first few stages of which, include the following:
+		-- setting up network security zones using pfsense on an upgraded machine:
+			1. DMZ ( servers open to the internet );
+			2. HOME zone ( TVs, mobile devices, and guests );
+			3. OFFICE zone ( laptop and everyday work environment );
+			4. SECURE zone ( hypervisor/server, runing a development environment of VMs and containers ), which can be air-gapped by  unplugging network cable, requiring its own pfsense server.
+		-- pfsense instances include DNS, DHCP, and NTP servers
+		-- customised installation of GitLab:
+			1. make it more generic ( rather than focused on computer code );
+			2. evolving congruency with my vision;
+			3. allowing plugins for related systems;
+			4. replication in DMZ, for collaboration beyond my network.
+		-- testing the collaboration framework, before opening it more broadly.
+	
+	What this project will allow / enable / offer is as follows:
+		1. a mechanism to develop ideas from any field, from concept to completion, including attracting any required resources;
+		2. strategies and systems which at all stages minimise the risk of resource waste / loss, including consequential losses that are labelled 'externalities' in the insantity of capitalism ( ie: harm that you don't want to take responsibility for doing, so you simply foist that responsibility onto someone or something else, which usually results in ecological & social injustice );
+		3. profit sharing and remuneration algorithms and principles which ensure no one gets ripped off, no one gets a disproportionate share, and no one's negotiating position ( from the capitalist perspective ) has any capacity to undermine a project or its principles;
+		4. systems which work towards the minimisation of deleterious and maximisation of beneficial ecological and social consequences, from a non-species-biased perspective.
+	
+	-- Tools / Tech --
+		While a full production version would require new equipment, I alreadyt have most of what is required - including:
+			1. commercial grade rack mounted server ( 2 x quad core Intel Xeon CPUs, 64GB ECC DDR4, 6 HDDS in RAID6 config, CentOS Linux installed );
+			2. QNAP NAS ( 6 core AMD CPU, 64GB DDR4R, 2x M.2 SSD RAID0 cache, plus 2x SATA SSD RAID1, & 6x SATA HDD RAID6 as a storage pool with volume groups );
+			3. HP machine upgraded with new RAM, SSDs, and PCIe network cards, to run pfsense for network zones;
+			4. additional ethernet cables of various lengths;
+		-- other required tools / software include open source systems ( Linux, Git, GitLab, Eclipse IDE ), plus a couple of new switches.
+	
+	-- Skills --
+		At present I am having to learn everything myself:
+			1. system building
+			2. system configuration
+			3. system administration
+			4. network adminstration
+			5. computer coding ( C/C++, Java, CSS/HTML/XML, PHP, JavaScipt )
+		
+		This is a huge task, but in order to attract / find funding on terms which are acceptable - ie: terms which do not undermine or sabotage the very principles and objectives I am aiming at - I need to have developed enough of the technology to properly explain it to others, AND MORE IMPORTANTLY to hold a strong negotiating position ( the very issue I am trying to save others from, as many people are bad at negotiating, or have no leverage ).
+	
+	-- Outcome --
+		There are various levels of success here:
+			1. worst case ( yet nonetheless still 'successful' outcome ): I do not see the changes in my own lifetime, but humanity survives, and others continue the work after I am gone;
+			2. slightly better: I am able to get the system running, and it does help people and other species, but I am unable to take it to what I see as a minimum completion, and hence ( as before ) it will be up to others to follow in my footsteps;
+			3. much better: the system is successful, it works, many tragedies are averted, ongoing damage is halted, then reversed, and society not only thrives, but actually starts evolving again ( after the intellectual dark ages we are going through presently );
+			4. outstanding: the insane potential of many human minds is released, by freeing them from brainwashing / indoctrination, freeing people from religion, authoritarian hierarchies of socioeconomic, political, and military power, and we actually become a species WORTHY of leaving this planet, which we no longer NEED to do, because we cease fucking it up.
+	
+	
